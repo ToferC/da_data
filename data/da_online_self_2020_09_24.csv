@@ -56,7 +56,7 @@ Offering ID,Registration Bus Id,DimScopeDwKey,Date,Course Code,Course Title (en)
 127690,regdw000000004688700,2,2020-09-22 0:00,I610,Achieving Customer-centric Design with User Personas (I610),Online - Self-paced,English/Anglais,0,Confirmed,Global Affairs Canada,CS
 127690,regdw000000004689929,2,2020-09-23 0:00,I610,Achieving Customer-centric Design with User Personas (I610),Online - Self-paced,English/Anglais,0,Cancelled,"Immigration, Refugees and Citizenship Canada",PM
 127690,regdw000000004690696,2,2020-09-23 0:00,I610,Achieving Customer-centric Design with User Personas (I610),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,SP
-127691,regdw000000004598394,2,2020-08-12 0:00,I610,Achieving Customer-centric Design with User Personas (I610),Online - Self-paced,French/Français,0,Confirmed,Unknown,AS
+127691,regdw000000004598394,2,2020-08-12 0:00,I610,Achieving Customer-centric Design with User Personas (I610),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Unknown,AS
 127729,regdw000000004598425,2,2020-08-12 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,English/Anglais,0,Confirmed,Indigenous Services Canada,EC
 127729,regdw000000004598923,2,2020-08-12 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,English/Anglais,0,Confirmed,Department of Agriculture and Agri-Food,CR
 127729,regdw000000004599221,2,2020-08-12 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,SP
@@ -164,24 +164,24 @@ Offering ID,Registration Bus Id,DimScopeDwKey,Date,Course Code,Course Title (en)
 127729,regdw000000004684568,2,2020-09-21 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,English/Anglais,0,Confirmed,Public Services and Procurement Canada,AS
 127729,regdw000000004685274,2,2020-09-22 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,English/Anglais,0,Confirmed,Global Affairs Canada,Level
 127729,regdw000000004686741,2,2020-09-22 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,English/Anglais,0,Confirmed,Department of Health,AS
-127729,regdw000000004687099,2,2020-09-22 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,English/Anglais,0,Confirmed,Parks Canada ,GL
+127729,regdw000000004687099,2,2020-09-22 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,English/Anglais,0,Confirmed,Parks Canada,GL
 127729,regdw000000004687228,2,2020-09-22 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,English/Anglais,0,Confirmed,Global Affairs Canada,CS
 127729,regdw000000004687269,2,2020-09-22 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,English/Anglais,0,Confirmed,Department of National Defence (Civilian),CR
 127729,regdw000000004688038,2,2020-09-22 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,SP
 127729,regdw000000004688618,2,2020-09-22 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,SP
 127729,regdw000000004690081,2,2020-09-23 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,English/Anglais,0,Confirmed,Department of National Defence (Civilian),CR
 127729,regdw000000004690266,2,2020-09-23 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,English/Anglais,0,Cancelled,Department of Fisheries and Oceans,STDNT
-127730,regdw000000004598386,2,2020-08-12 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,French/Français,0,Confirmed,Unknown,AS
-127730,regdw000000004606443,2,2020-08-17 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,French/Français,0,Confirmed,Department of National Defence (Civilian),IS
-127730,regdw000000004613976,2,2020-08-20 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,French/Français,0,Confirmed,Public Services and Procurement Canada,CR
-127730,regdw000000004654188,2,2020-09-08 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,French/Français,0,Confirmed,Canada Revenue Agency,AU
-127730,regdw000000004654894,2,2020-09-08 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,French/Français,0,Confirmed,Environment and Climate Change Canada,GT
-127730,regdw000000004657389,2,2020-09-09 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,French/Français,0,Confirmed,Environment and Climate Change Canada,GT
-127730,regdw000000004657886,2,2020-09-09 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,French/Français,0,Confirmed,Translation Bureau,AS
-127730,regdw000000004662882,2,2020-09-11 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,French/Français,0,Cancelled,"Immigration, Refugees and Citizenship Canada",PG
-127730,regdw000000004689634,2,2020-09-23 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,French/Français,0,Confirmed,Canada Revenue Agency,AU
-127730,regdw000000004690743,2,2020-09-23 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,French/Français,0,Confirmed,Shared Services Canada,CR
-127730,regdw000000004691536,2,2020-09-23 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,French/Français,0,Confirmed,Public Services and Procurement Canada,AS
+127730,regdw000000004598386,2,2020-08-12 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Unknown,AS
+127730,regdw000000004606443,2,2020-08-17 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Department of National Defence (Civilian),IS
+127730,regdw000000004613976,2,2020-08-20 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Public Services and Procurement Canada,CR
+127730,regdw000000004654188,2,2020-09-08 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Canada Revenue Agency,AU
+127730,regdw000000004654894,2,2020-09-08 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Environment and Climate Change Canada,GT
+127730,regdw000000004657389,2,2020-09-09 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Environment and Climate Change Canada,GT
+127730,regdw000000004657886,2,2020-09-09 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Translation Bureau,AS
+127730,regdw000000004662882,2,2020-09-11 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,French/FranÃ§ais,0,Cancelled,"Immigration, Refugees and Citizenship Canada",PG
+127730,regdw000000004689634,2,2020-09-23 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Canada Revenue Agency,AU
+127730,regdw000000004690743,2,2020-09-23 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Shared Services Canada,CR
+127730,regdw000000004691536,2,2020-09-23 0:00,I631,Achieving Digital Dexterity (I631),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Public Services and Procurement Canada,AS
 127731,regdw000000004648787,2,2020-09-03 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,English/Anglais,0,Confirmed,Statistics Canada,AS
 127731,regdw000000004649821,2,2020-09-03 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,English/Anglais,0,Confirmed,Public Safety Canada,AS
 127731,regdw000000004650225,2,2020-09-04 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,English/Anglais,0,Confirmed,Statistics Canada,CR
@@ -223,18 +223,18 @@ Offering ID,Registration Bus Id,DimScopeDwKey,Date,Course Code,Course Title (en)
 127731,regdw000000004689968,2,2020-09-23 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,English/Anglais,0,Cancelled,"Immigration, Refugees and Citizenship Canada",PM
 127731,regdw000000004690965,2,2020-09-23 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,English/Anglais,0,Confirmed,Veterans Affairs Canada,WP
 127731,regdw000000004691982,2,2020-09-23 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,English/Anglais,0,Cancelled,Employment and Social Development Canada,PM
-127733,regdw000000004598354,2,2020-08-12 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,French/Français,0,Confirmed,Unknown,AS
-127733,regdw000000004651990,2,2020-09-04 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,French/Français,0,Confirmed,Canada School of Public Service,AS
-127733,regdw000000004657451,2,2020-09-09 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,French/Français,0,Confirmed,Unknown,Unknown
-127733,regdw000000004658295,2,2020-09-09 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,French/Français,0,Confirmed,Employment and Social Development Canada,PM
-127733,regdw000000004658903,2,2020-09-09 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,French/Français,0,Confirmed,Natural Resources Canada,CS
-127733,regdw000000004660761,2,2020-09-10 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,French/Français,0,Cancelled,Public Services and Procurement Canada,AS
-127733,regdw000000004666402,2,2020-09-14 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,French/Français,0,Confirmed,Department of National Defence (Civilian),GSSTS
-127733,regdw000000004666589,2,2020-09-14 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,French/Français,0,Confirmed,Statistics Canada,EC
-127733,regdw000000004677139,2,2020-09-17 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,French/Français,0,Confirmed,Employment and Social Development Canada,CR
-127733,regdw000000004689557,2,2020-09-23 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,French/Français,0,Confirmed,Treasury Board of Canada Secretariat,EC
-127733,regdw000000004691984,2,2020-09-23 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,French/Français,0,Cancelled,Employment and Social Development Canada,PM
-127733,regdw000000004691997,2,2020-09-23 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,French/Français,0,Confirmed,Department of National Defence (Military),Other
+127733,regdw000000004598354,2,2020-08-12 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Unknown,AS
+127733,regdw000000004651990,2,2020-09-04 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Canada School of Public Service,AS
+127733,regdw000000004657451,2,2020-09-09 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Unknown,Unknown
+127733,regdw000000004658295,2,2020-09-09 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Employment and Social Development Canada,PM
+127733,regdw000000004658903,2,2020-09-09 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Natural Resources Canada,CS
+127733,regdw000000004660761,2,2020-09-10 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,French/FranÃ§ais,0,Cancelled,Public Services and Procurement Canada,AS
+127733,regdw000000004666402,2,2020-09-14 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Department of National Defence (Civilian),GSSTS
+127733,regdw000000004666589,2,2020-09-14 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Statistics Canada,EC
+127733,regdw000000004677139,2,2020-09-17 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Employment and Social Development Canada,CR
+127733,regdw000000004689557,2,2020-09-23 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Treasury Board of Canada Secretariat,EC
+127733,regdw000000004691984,2,2020-09-23 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,French/FranÃ§ais,0,Cancelled,Employment and Social Development Canada,PM
+127733,regdw000000004691997,2,2020-09-23 0:00,I632,Agile Principles and Methodologies (I632),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Department of National Defence (Military),Other
 127735,regdw000000004608220,2,2020-08-17 0:00,I503,Agile Project Planning (I503),Online - Self-paced,English/Anglais,0,Confirmed,Department of Health,NUCHN
 127735,regdw000000004609076,2,2020-08-18 0:00,I503,Agile Project Planning (I503),Online - Self-paced,English/Anglais,0,Confirmed,"Immigration, Refugees and Citizenship Canada",CR
 127735,regdw000000004609566,2,2020-08-18 0:00,I503,Agile Project Planning (I503),Online - Self-paced,English/Anglais,0,Confirmed,Veterans Affairs Canada,CR
@@ -269,17 +269,17 @@ Offering ID,Registration Bus Id,DimScopeDwKey,Date,Course Code,Course Title (en)
 127735,regdw000000004685931,2,2020-09-22 0:00,I503,Agile Project Planning (I503),Online - Self-paced,English/Anglais,0,Confirmed,"Immigration, Refugees and Citizenship Canada",PM
 127735,regdw000000004686718,2,2020-09-22 0:00,I503,Agile Project Planning (I503),Online - Self-paced,English/Anglais,0,Confirmed,Veterans Affairs Canada,CR
 127735,regdw000000004688311,2,2020-09-22 0:00,I503,Agile Project Planning (I503),Online - Self-paced,English/Anglais,0,Confirmed,Global Affairs Canada,LEGS
-127735,regdw000000004689324,2,2020-09-23 0:00,I503,Agile Project Planning (I503),Online - Self-paced,English/Anglais,0,Confirmed,Parks Canada ,PM
+127735,regdw000000004689324,2,2020-09-23 0:00,I503,Agile Project Planning (I503),Online - Self-paced,English/Anglais,0,Confirmed,Parks Canada,PM
 127735,regdw000000004689396,2,2020-09-23 0:00,I503,Agile Project Planning (I503),Online - Self-paced,English/Anglais,0,Confirmed,Department of National Defence (Civilian),CR
 127735,regdw000000004689617,2,2020-09-23 0:00,I503,Agile Project Planning (I503),Online - Self-paced,English/Anglais,0,Confirmed,Public Health Agency of Canada,CS
 127735,regdw000000004689740,2,2020-09-23 0:00,I503,Agile Project Planning (I503),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,CS
 127735,regdw000000004690552,2,2020-09-23 0:00,I503,Agile Project Planning (I503),Online - Self-paced,English/Anglais,0,Confirmed,Employment and Social Development Canada,EC
-127736,regdw000000004613143,2,2020-08-19 0:00,I503,Agile Project Planning (I503),Online - Self-paced,French/Français,0,Confirmed,Parks Canada ,PM
-127736,regdw000000004650471,2,2020-09-04 0:00,I503,Agile Project Planning (I503),Online - Self-paced,French/Français,0,Confirmed,Employment and Social Development Canada,PM
-127736,regdw000000004653432,2,2020-09-08 0:00,I503,Agile Project Planning (I503),Online - Self-paced,French/Français,0,Confirmed,Canada School of Public Service,AS
-127736,regdw000000004655544,2,2020-09-08 0:00,I503,Agile Project Planning (I503),Online - Self-paced,French/Français,0,Confirmed,Department of Justice,AS
-127736,regdw000000004656517,2,2020-09-09 0:00,I503,Agile Project Planning (I503),Online - Self-paced,French/Français,0,Cancelled,Shared Services Canada,CR
-127736,regdw000000004689570,2,2020-09-23 0:00,I503,Agile Project Planning (I503),Online - Self-paced,French/Français,0,Confirmed,Treasury Board of Canada Secretariat,EC
+127736,regdw000000004613143,2,2020-08-19 0:00,I503,Agile Project Planning (I503),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Parks Canada,PM
+127736,regdw000000004650471,2,2020-09-04 0:00,I503,Agile Project Planning (I503),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Employment and Social Development Canada,PM
+127736,regdw000000004653432,2,2020-09-08 0:00,I503,Agile Project Planning (I503),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Canada School of Public Service,AS
+127736,regdw000000004655544,2,2020-09-08 0:00,I503,Agile Project Planning (I503),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Department of Justice,AS
+127736,regdw000000004656517,2,2020-09-09 0:00,I503,Agile Project Planning (I503),Online - Self-paced,French/FranÃ§ais,0,Cancelled,Shared Services Canada,CR
+127736,regdw000000004689570,2,2020-09-23 0:00,I503,Agile Project Planning (I503),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Treasury Board of Canada Secretariat,EC
 127738,regdw000000004598670,2,2020-08-12 0:00,I633,Agile Project Scheduling and Monitoring (I633),Online - Self-paced,English/Anglais,0,Confirmed,Communications Security Establishment,Unknown
 127738,regdw000000004598809,2,2020-08-12 0:00,I633,Agile Project Scheduling and Monitoring (I633),Online - Self-paced,English/Anglais,0,Confirmed,Employment and Social Development Canada,PM
 127738,regdw000000004600177,2,2020-08-12 0:00,I633,Agile Project Scheduling and Monitoring (I633),Online - Self-paced,English/Anglais,0,Confirmed,Canada Border Services Agency,FB
@@ -328,19 +328,19 @@ Offering ID,Registration Bus Id,DimScopeDwKey,Date,Course Code,Course Title (en)
 127738,regdw000000004684317,2,2020-09-21 0:00,I633,Agile Project Scheduling and Monitoring (I633),Online - Self-paced,English/Anglais,0,Confirmed,Veterans Affairs Canada,AS
 127738,regdw000000004687081,2,2020-09-22 0:00,I633,Agile Project Scheduling and Monitoring (I633),Online - Self-paced,English/Anglais,0,Confirmed,Employment and Social Development Canada,AS
 127738,regdw000000004687522,2,2020-09-22 0:00,I633,Agile Project Scheduling and Monitoring (I633),Online - Self-paced,English/Anglais,0,Cancelled,Royal Canadian Mounted Police (PS employees),PM
-127738,regdw000000004687923,2,2020-09-22 0:00,I633,Agile Project Scheduling and Monitoring (I633),Online - Self-paced,English/Anglais,0,Confirmed,Parks Canada ,AR
+127738,regdw000000004687923,2,2020-09-22 0:00,I633,Agile Project Scheduling and Monitoring (I633),Online - Self-paced,English/Anglais,0,Confirmed,Parks Canada,AR
 127738,regdw000000004689409,2,2020-09-23 0:00,I633,Agile Project Scheduling and Monitoring (I633),Online - Self-paced,English/Anglais,0,Confirmed,Department of National Defence (Civilian),CR
 127738,regdw000000004689637,2,2020-09-23 0:00,I633,Agile Project Scheduling and Monitoring (I633),Online - Self-paced,English/Anglais,0,Confirmed,Public Health Agency of Canada,CS
 127738,regdw000000004689858,2,2020-09-23 0:00,I633,Agile Project Scheduling and Monitoring (I633),Online - Self-paced,English/Anglais,0,Confirmed,Natural Resources Canada,AS
 127738,regdw000000004690450,2,2020-09-23 0:00,I633,Agile Project Scheduling and Monitoring (I633),Online - Self-paced,English/Anglais,0,Confirmed,"Immigration, Refugees and Citizenship Canada",PM
 127738,regdw000000004691662,2,2020-09-23 0:00,I633,Agile Project Scheduling and Monitoring (I633),Online - Self-paced,English/Anglais,0,Confirmed,Office of the Superintendent of Financial Institutions,RE
-127739,regdw000000004598414,2,2020-08-12 0:00,I633,Agile Project Scheduling and Monitoring (I633),Online - Self-paced,French/Français,0,Confirmed,Unknown,AS
-127739,regdw000000004600843,2,2020-08-13 0:00,I633,Agile Project Scheduling and Monitoring (I633),Online - Self-paced,French/Français,0,Confirmed,Canada Revenue Agency,SU
-127739,regdw000000004607003,2,2020-08-17 0:00,I633,Agile Project Scheduling and Monitoring (I633),Online - Self-paced,French/Français,0,Confirmed,Canada Revenue Agency,SU
-127739,regdw000000004682770,2,2020-09-21 0:00,I633,Agile Project Scheduling and Monitoring (I633),Online - Self-paced,French/Français,0,Confirmed,"Innovation, Science and Economic Development Canada",AS
-127739,regdw000000004689266,2,2020-09-23 0:00,I633,Agile Project Scheduling and Monitoring (I633),Online - Self-paced,French/Français,0,Confirmed,Employment and Social Development Canada,AS
-127739,regdw000000004689575,2,2020-09-23 0:00,I633,Agile Project Scheduling and Monitoring (I633),Online - Self-paced,French/Français,0,Confirmed,Treasury Board of Canada Secretariat,EC
-127739,regdw000000004691974,2,2020-09-23 0:00,I633,Agile Project Scheduling and Monitoring (I633),Online - Self-paced,French/Français,0,Confirmed,Department of National Defence (Military),Other
+127739,regdw000000004598414,2,2020-08-12 0:00,I633,Agile Project Scheduling and Monitoring (I633),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Unknown,AS
+127739,regdw000000004600843,2,2020-08-13 0:00,I633,Agile Project Scheduling and Monitoring (I633),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Canada Revenue Agency,SU
+127739,regdw000000004607003,2,2020-08-17 0:00,I633,Agile Project Scheduling and Monitoring (I633),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Canada Revenue Agency,SU
+127739,regdw000000004682770,2,2020-09-21 0:00,I633,Agile Project Scheduling and Monitoring (I633),Online - Self-paced,French/FranÃ§ais,0,Confirmed,"Innovation, Science and Economic Development Canada",AS
+127739,regdw000000004689266,2,2020-09-23 0:00,I633,Agile Project Scheduling and Monitoring (I633),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Employment and Social Development Canada,AS
+127739,regdw000000004689575,2,2020-09-23 0:00,I633,Agile Project Scheduling and Monitoring (I633),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Treasury Board of Canada Secretariat,EC
+127739,regdw000000004691974,2,2020-09-23 0:00,I633,Agile Project Scheduling and Monitoring (I633),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Department of National Defence (Military),Other
 127740,regdw000000004647943,2,2020-09-03 0:00,I558,Agile Stakeholder Engagement and Team Development (I558),Online - Self-paced,English/Anglais,0,Confirmed,Veterans Affairs Canada,CR
 127740,regdw000000004650320,2,2020-09-04 0:00,I558,Agile Stakeholder Engagement and Team Development (I558),Online - Self-paced,English/Anglais,0,Confirmed,Department of Fisheries and Oceans,AS
 127740,regdw000000004651970,2,2020-09-04 0:00,I558,Agile Stakeholder Engagement and Team Development (I558),Online - Self-paced,English/Anglais,0,Confirmed,Canada School of Public Service,AS
@@ -358,10 +358,10 @@ Offering ID,Registration Bus Id,DimScopeDwKey,Date,Course Code,Course Title (en)
 127740,regdw000000004687327,2,2020-09-22 0:00,I558,Agile Stakeholder Engagement and Team Development (I558),Online - Self-paced,English/Anglais,0,Confirmed,Canadian Food Inspection Agency,CS
 127740,regdw000000004687442,2,2020-09-22 0:00,I558,Agile Stakeholder Engagement and Team Development (I558),Online - Self-paced,English/Anglais,0,Confirmed,Statistics Canada,EC
 127740,regdw000000004689693,2,2020-09-23 0:00,I558,Agile Stakeholder Engagement and Team Development (I558),Online - Self-paced,English/Anglais,0,Confirmed,Public Health Agency of Canada,CS
-127741,regdw000000004598375,2,2020-08-12 0:00,I558,Agile Stakeholder Engagement and Team Development (I558),Online - Self-paced,French/Français,0,Confirmed,Unknown,AS
-127741,regdw000000004653446,2,2020-09-08 0:00,I558,Agile Stakeholder Engagement and Team Development (I558),Online - Self-paced,French/Français,0,Confirmed,Canada School of Public Service,AS
-127741,regdw000000004670893,2,2020-09-15 0:00,I558,Agile Stakeholder Engagement and Team Development (I558),Online - Self-paced,French/Français,0,Confirmed,Employment and Social Development Canada,CR
-127741,regdw000000004689585,2,2020-09-23 0:00,I558,Agile Stakeholder Engagement and Team Development (I558),Online - Self-paced,French/Français,0,Confirmed,Treasury Board of Canada Secretariat,EC
+127741,regdw000000004598375,2,2020-08-12 0:00,I558,Agile Stakeholder Engagement and Team Development (I558),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Unknown,AS
+127741,regdw000000004653446,2,2020-09-08 0:00,I558,Agile Stakeholder Engagement and Team Development (I558),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Canada School of Public Service,AS
+127741,regdw000000004670893,2,2020-09-15 0:00,I558,Agile Stakeholder Engagement and Team Development (I558),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Employment and Social Development Canada,CR
+127741,regdw000000004689585,2,2020-09-23 0:00,I558,Agile Stakeholder Engagement and Team Development (I558),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Treasury Board of Canada Secretariat,EC
 127742,regdw000000004598474,2,2020-08-12 0:00,I615,Applying Virtual Assistant Technology (I615),Online - Self-paced,English/Anglais,0,Confirmed,Unknown,AS
 127742,regdw000000004601306,2,2020-08-13 0:00,I615,Applying Virtual Assistant Technology (I615),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,SP
 127742,regdw000000004601972,2,2020-08-13 0:00,I615,Applying Virtual Assistant Technology (I615),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,AU
@@ -401,14 +401,14 @@ Offering ID,Registration Bus Id,DimScopeDwKey,Date,Course Code,Course Title (en)
 127742,regdw000000004686630,2,2020-09-22 0:00,I615,Applying Virtual Assistant Technology (I615),Online - Self-paced,English/Anglais,0,Cancelled,Canada Revenue Agency,SP
 127742,regdw000000004688676,2,2020-09-22 0:00,I615,Applying Virtual Assistant Technology (I615),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,AU
 127742,regdw000000004690658,2,2020-09-23 0:00,I615,Applying Virtual Assistant Technology (I615),Online - Self-paced,English/Anglais,0,Confirmed,Department of National Defence (Civilian),CS
-127743,regdw000000004609772,2,2020-08-18 0:00,I615,Applying Virtual Assistant Technology (I615),Online - Self-paced,French/Français,0,Confirmed,Communications Security Establishment,UNI
-127743,regdw000000004669244,2,2020-09-15 0:00,I615,Applying Virtual Assistant Technology (I615),Online - Self-paced,French/Français,0,Confirmed,Environment and Climate Change Canada,Unknown
-127743,regdw000000004674550,2,2020-09-16 0:00,I615,Applying Virtual Assistant Technology (I615),Online - Self-paced,French/Français,0,Cancelled,"Immigration, Refugees and Citizenship Canada",PG
-127743,regdw000000004675654,2,2020-09-17 0:00,I615,Applying Virtual Assistant Technology (I615),Online - Self-paced,French/Français,0,Confirmed,Correctional Service of Canada,CX
-127743,regdw000000004678673,2,2020-09-18 0:00,I615,Applying Virtual Assistant Technology (I615),Online - Self-paced,French/Français,0,Confirmed,"Immigration, Refugees and Citizenship Canada",Level
-127743,regdw000000004687015,2,2020-09-22 0:00,I615,Applying Virtual Assistant Technology (I615),Online - Self-paced,French/Français,0,Confirmed,Department of National Defence (Civilian),IS
-127743,regdw000000004690273,2,2020-09-23 0:00,I615,Applying Virtual Assistant Technology (I615),Online - Self-paced,French/Français,0,Confirmed,Environment and Climate Change Canada,GT
-127743,regdw000000004691645,2,2020-09-23 0:00,I615,Applying Virtual Assistant Technology (I615),Online - Self-paced,French/Français,0,Confirmed,Public Services and Procurement Canada,CR
+127743,regdw000000004609772,2,2020-08-18 0:00,I615,Applying Virtual Assistant Technology (I615),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Communications Security Establishment,UNI
+127743,regdw000000004669244,2,2020-09-15 0:00,I615,Applying Virtual Assistant Technology (I615),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Environment and Climate Change Canada,Unknown
+127743,regdw000000004674550,2,2020-09-16 0:00,I615,Applying Virtual Assistant Technology (I615),Online - Self-paced,French/FranÃ§ais,0,Cancelled,"Immigration, Refugees and Citizenship Canada",PG
+127743,regdw000000004675654,2,2020-09-17 0:00,I615,Applying Virtual Assistant Technology (I615),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Correctional Service of Canada,CX
+127743,regdw000000004678673,2,2020-09-18 0:00,I615,Applying Virtual Assistant Technology (I615),Online - Self-paced,French/FranÃ§ais,0,Confirmed,"Immigration, Refugees and Citizenship Canada",Level
+127743,regdw000000004687015,2,2020-09-22 0:00,I615,Applying Virtual Assistant Technology (I615),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Department of National Defence (Civilian),IS
+127743,regdw000000004690273,2,2020-09-23 0:00,I615,Applying Virtual Assistant Technology (I615),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Environment and Climate Change Canada,GT
+127743,regdw000000004691645,2,2020-09-23 0:00,I615,Applying Virtual Assistant Technology (I615),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Public Services and Procurement Canada,CR
 127767,regdw000000004608095,2,2020-08-17 0:00,I502,Best Practices for Digital Transformation (I502),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,AU
 127767,regdw000000004608138,2,2020-08-17 0:00,I502,Best Practices for Digital Transformation (I502),Online - Self-paced,English/Anglais,0,Confirmed,Department of Fisheries and Oceans,CR
 127767,regdw000000004610865,2,2020-08-18 0:00,I502,Best Practices for Digital Transformation (I502),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,AU
@@ -437,7 +437,7 @@ Offering ID,Registration Bus Id,DimScopeDwKey,Date,Course Code,Course Title (en)
 127767,regdw000000004671695,2,2020-09-15 0:00,I502,Best Practices for Digital Transformation (I502),Online - Self-paced,English/Anglais,0,Confirmed,Shared Services Canada,EX
 127767,regdw000000004673406,2,2020-09-16 0:00,I502,Best Practices for Digital Transformation (I502),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,SP
 127767,regdw000000004676202,2,2020-09-17 0:00,I502,Best Practices for Digital Transformation (I502),Online - Self-paced,English/Anglais,0,Confirmed,Treasury Board of Canada Secretariat,EC
-127767,regdw000000004677618,2,2020-09-17 0:00,I502,Best Practices for Digital Transformation (I502),Online - Self-paced,English/Anglais,0,Confirmed,Parks Canada ,CR
+127767,regdw000000004677618,2,2020-09-17 0:00,I502,Best Practices for Digital Transformation (I502),Online - Self-paced,English/Anglais,0,Confirmed,Parks Canada,CR
 127767,regdw000000004679942,2,2020-09-18 0:00,I502,Best Practices for Digital Transformation (I502),Online - Self-paced,English/Anglais,0,Confirmed,Global Affairs Canada,Level
 127767,regdw000000004683598,2,2020-09-21 0:00,I502,Best Practices for Digital Transformation (I502),Online - Self-paced,English/Anglais,0,Confirmed,Public Safety Canada,CS
 127767,regdw000000004684270,2,2020-09-21 0:00,I502,Best Practices for Digital Transformation (I502),Online - Self-paced,English/Anglais,0,Confirmed,Employment and Social Development Canada,PM
@@ -447,9 +447,9 @@ Offering ID,Registration Bus Id,DimScopeDwKey,Date,Course Code,Course Title (en)
 127767,regdw000000004691108,2,2020-09-23 0:00,I502,Best Practices for Digital Transformation (I502),Online - Self-paced,English/Anglais,0,Confirmed,Department of Agriculture and Agri-Food,CR
 127767,regdw000000004691206,2,2020-09-23 0:00,I502,Best Practices for Digital Transformation (I502),Online - Self-paced,English/Anglais,0,Confirmed,Department of Justice,EC
 127767,regdw000000004691529,2,2020-09-23 0:00,I502,Best Practices for Digital Transformation (I502),Online - Self-paced,English/Anglais,0,Confirmed,Royal Canadian Mounted Police (PS employees),Other
-127768,regdw000000004656652,2,2020-09-09 0:00,I502,Best Practices for Digital Transformation (I502),Online - Self-paced,French/Français,0,Confirmed,Employment and Social Development Canada,CR
-127768,regdw000000004658173,2,2020-09-09 0:00,I502,Best Practices for Digital Transformation (I502),Online - Self-paced,French/Français,0,Confirmed,Translation Bureau,AS
-127768,regdw000000004674558,2,2020-09-16 0:00,I502,Best Practices for Digital Transformation (I502),Online - Self-paced,French/Français,0,Confirmed,Correctional Service of Canada,AS
+127768,regdw000000004656652,2,2020-09-09 0:00,I502,Best Practices for Digital Transformation (I502),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Employment and Social Development Canada,CR
+127768,regdw000000004658173,2,2020-09-09 0:00,I502,Best Practices for Digital Transformation (I502),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Translation Bureau,AS
+127768,regdw000000004674558,2,2020-09-16 0:00,I502,Best Practices for Digital Transformation (I502),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Correctional Service of Canada,AS
 127769,regdw000000004608161,2,2020-08-17 0:00,I520,Big Data Fundamentals (I520),Online - Self-paced,English/Anglais,0,Confirmed,Department of Fisheries and Oceans,CR
 127769,regdw000000004608866,2,2020-08-18 0:00,I520,Big Data Fundamentals (I520),Online - Self-paced,English/Anglais,0,Confirmed,Department of National Defence (Civilian),CR
 127769,regdw000000004651849,2,2020-09-04 0:00,I520,Big Data Fundamentals (I520),Online - Self-paced,English/Anglais,0,Confirmed,Global Affairs Canada,Level
@@ -467,11 +467,11 @@ Offering ID,Registration Bus Id,DimScopeDwKey,Date,Course Code,Course Title (en)
 127769,regdw000000004664817,2,2020-09-12 0:00,I520,Big Data Fundamentals (I520),Online - Self-paced,English/Anglais,0,Confirmed,Canadian Transportation Agency,EC
 127769,regdw000000004668096,2,2020-09-14 0:00,I520,Big Data Fundamentals (I520),Online - Self-paced,English/Anglais,0,Confirmed,National Research Council of Canada,TO
 127769,regdw000000004668657,2,2020-09-14 0:00,I520,Big Data Fundamentals (I520),Online - Self-paced,English/Anglais,0,Confirmed,Canada School of Public Service,PM
-127770,regdw000000004651984,2,2020-09-04 0:00,I520,Big Data Fundamentals (I520),Online - Self-paced,French/Français,0,Confirmed,Canada School of Public Service,AS
-127770,regdw000000004654986,2,2020-09-08 0:00,I520,Big Data Fundamentals (I520),Online - Self-paced,French/Français,0,Confirmed,Public Service Commission,EDEDS
-127770,regdw000000004658229,2,2020-09-09 0:00,I520,Big Data Fundamentals (I520),Online - Self-paced,French/Français,0,Confirmed,Translation Bureau,AS
-127770,regdw000000004658610,2,2020-09-09 0:00,I520,Big Data Fundamentals (I520),Online - Self-paced,French/Français,0,Confirmed,Employment and Social Development Canada,FI
-127770,regdw000000004663979,2,2020-09-11 0:00,I520,Big Data Fundamentals (I520),Online - Self-paced,French/Français,0,Confirmed,Department of Fisheries and Oceans,CS
+127770,regdw000000004651984,2,2020-09-04 0:00,I520,Big Data Fundamentals (I520),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Canada School of Public Service,AS
+127770,regdw000000004654986,2,2020-09-08 0:00,I520,Big Data Fundamentals (I520),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Public Service Commission,EDEDS
+127770,regdw000000004658229,2,2020-09-09 0:00,I520,Big Data Fundamentals (I520),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Translation Bureau,AS
+127770,regdw000000004658610,2,2020-09-09 0:00,I520,Big Data Fundamentals (I520),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Employment and Social Development Canada,FI
+127770,regdw000000004663979,2,2020-09-11 0:00,I520,Big Data Fundamentals (I520),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Department of Fisheries and Oceans,CS
 127771,regdw000000004667014,2,2020-09-14 0:00,I521,Big Data Interpretation (I521),Online - Self-paced,English/Anglais,0,Confirmed,Global Affairs Canada,EC
 127771,regdw000000004670540,2,2020-09-15 0:00,I521,Big Data Interpretation (I521),Online - Self-paced,English/Anglais,0,Confirmed,Global Affairs Canada,Level
 127773,regdw000000004607895,2,2020-08-17 0:00,I605,Building a Culture of Design Thinking (I605),Online - Self-paced,English/Anglais,0,Confirmed,Employment and Social Development Canada,CR
@@ -500,11 +500,11 @@ Offering ID,Registration Bus Id,DimScopeDwKey,Date,Course Code,Course Title (en)
 127773,regdw000000004688674,2,2020-09-22 0:00,I605,Building a Culture of Design Thinking (I605),Online - Self-paced,English/Anglais,0,Confirmed,Employment and Social Development Canada,FI
 127773,regdw000000004689226,2,2020-09-23 0:00,I605,Building a Culture of Design Thinking (I605),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,SP
 127773,regdw000000004689253,2,2020-09-23 0:00,I605,Building a Culture of Design Thinking (I605),Online - Self-paced,English/Anglais,0,Confirmed,Veterans Affairs Canada,CR
-127774,regdw000000004669591,2,2020-09-15 0:00,I605,Building a Culture of Design Thinking (I605),Online - Self-paced,French/Français,0,Confirmed,Department of National Defence (Civilian),IS
-127774,regdw000000004673985,2,2020-09-16 0:00,I605,Building a Culture of Design Thinking (I605),Online - Self-paced,French/Français,0,Cancelled,Canadian Space Agency,AS
-127774,regdw000000004675208,2,2020-09-16 0:00,I605,Building a Culture of Design Thinking (I605),Online - Self-paced,French/Français,0,Confirmed,Department of Agriculture and Agri-Food,GLMAN
-127774,regdw000000004685582,2,2020-09-22 0:00,I605,Building a Culture of Design Thinking (I605),Online - Self-paced,French/Français,0,Confirmed,Public Services and Procurement Canada,GT
-127774,regdw000000004688225,2,2020-09-22 0:00,I605,Building a Culture of Design Thinking (I605),Online - Self-paced,French/Français,0,Confirmed,Environment and Climate Change Canada,GT
+127774,regdw000000004669591,2,2020-09-15 0:00,I605,Building a Culture of Design Thinking (I605),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Department of National Defence (Civilian),IS
+127774,regdw000000004673985,2,2020-09-16 0:00,I605,Building a Culture of Design Thinking (I605),Online - Self-paced,French/FranÃ§ais,0,Cancelled,Canadian Space Agency,AS
+127774,regdw000000004675208,2,2020-09-16 0:00,I605,Building a Culture of Design Thinking (I605),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Department of Agriculture and Agri-Food,GLMAN
+127774,regdw000000004685582,2,2020-09-22 0:00,I605,Building a Culture of Design Thinking (I605),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Public Services and Procurement Canada,GT
+127774,regdw000000004688225,2,2020-09-22 0:00,I605,Building a Culture of Design Thinking (I605),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Environment and Climate Change Canada,GT
 127777,regdw000000004609601,2,2020-08-18 0:00,I611,Connecting with the Internet of Things (I611),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,AU
 127777,regdw000000004610888,2,2020-08-18 0:00,I611,Connecting with the Internet of Things (I611),Online - Self-paced,English/Anglais,0,Confirmed,Canada School of Public Service,AS
 127777,regdw000000004650966,2,2020-09-04 0:00,I611,Connecting with the Internet of Things (I611),Online - Self-paced,English/Anglais,0,Confirmed,Global Affairs Canada,CO
@@ -522,9 +522,9 @@ Offering ID,Registration Bus Id,DimScopeDwKey,Date,Course Code,Course Title (en)
 127777,regdw000000004683541,2,2020-09-21 0:00,I611,Connecting with the Internet of Things (I611),Online - Self-paced,English/Anglais,0,Confirmed,Employment and Social Development Canada,PM
 127777,regdw000000004686462,2,2020-09-22 0:00,I611,Connecting with the Internet of Things (I611),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,SP
 127777,regdw000000004691356,2,2020-09-23 0:00,I611,Connecting with the Internet of Things (I611),Online - Self-paced,English/Anglais,0,Confirmed,Canadian Food Inspection Agency,EG
-127778,regdw000000004652002,2,2020-09-04 0:00,I611,Connecting with the Internet of Things (I611),Online - Self-paced,French/Français,0,Confirmed,Canada School of Public Service,AS
-127778,regdw000000004659691,2,2020-09-10 0:00,I611,Connecting with the Internet of Things (I611),Online - Self-paced,French/Français,0,Confirmed,Veterans Affairs Canada,CR
-127778,regdw000000004659871,2,2020-09-10 0:00,I611,Connecting with the Internet of Things (I611),Online - Self-paced,French/Français,0,Cancelled,Unknown,AS
+127778,regdw000000004652002,2,2020-09-04 0:00,I611,Connecting with the Internet of Things (I611),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Canada School of Public Service,AS
+127778,regdw000000004659691,2,2020-09-10 0:00,I611,Connecting with the Internet of Things (I611),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Veterans Affairs Canada,CR
+127778,regdw000000004659871,2,2020-09-10 0:00,I611,Connecting with the Internet of Things (I611),Online - Self-paced,French/FranÃ§ais,0,Cancelled,Unknown,AS
 127779,regdw000000004609885,2,2020-08-18 0:00,I613,Creating Engagement with Virtual Reality (I613),Online - Self-paced,English/Anglais,0,Confirmed,Department of Agriculture and Agri-Food,EG
 127779,regdw000000004611025,2,2020-08-18 0:00,I613,Creating Engagement with Virtual Reality (I613),Online - Self-paced,English/Anglais,0,Confirmed,Canada School of Public Service,AS
 127779,regdw000000004611037,2,2020-08-18 0:00,I613,Creating Engagement with Virtual Reality (I613),Online - Self-paced,English/Anglais,0,Confirmed,Indigenous Services Canada,ENGEN
@@ -549,7 +549,7 @@ Offering ID,Registration Bus Id,DimScopeDwKey,Date,Course Code,Course Title (en)
 127779,regdw000000004685926,2,2020-09-22 0:00,I613,Creating Engagement with Virtual Reality (I613),Online - Self-paced,English/Anglais,0,Confirmed,Employment and Social Development Canada,AS
 127779,regdw000000004687647,2,2020-09-22 0:00,I613,Creating Engagement with Virtual Reality (I613),Online - Self-paced,English/Anglais,0,Confirmed,Environment and Climate Change Canada,AS
 127779,regdw000000004691251,2,2020-09-23 0:00,I613,Creating Engagement with Virtual Reality (I613),Online - Self-paced,English/Anglais,0,Confirmed,Canadian Food Inspection Agency,EG
-127780,regdw000000004659679,2,2020-09-10 0:00,I611,Connecting with the Internet of Things (I611),Online - Self-paced,French/Français,0,Confirmed,Veterans Affairs Canada,CR
+127780,regdw000000004659679,2,2020-09-10 0:00,I611,Connecting with the Internet of Things (I611),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Veterans Affairs Canada,CR
 127795,regdw000000004611044,2,2020-08-18 0:00,I634,Cultivating Cross-functional Team Collaboration (I634),Online - Self-paced,English/Anglais,0,Confirmed,Indigenous Services Canada,ENGEN
 127795,regdw000000004611555,2,2020-08-19 0:00,I634,Cultivating Cross-functional Team Collaboration (I634),Online - Self-paced,English/Anglais,0,Confirmed,Veterans Affairs Canada,CR
 127795,regdw000000004613770,2,2020-08-20 0:00,I634,Cultivating Cross-functional Team Collaboration (I634),Online - Self-paced,English/Anglais,0,Confirmed,Global Affairs Canada,Level
@@ -570,11 +570,11 @@ Offering ID,Registration Bus Id,DimScopeDwKey,Date,Course Code,Course Title (en)
 127795,regdw000000004681061,2,2020-09-18 0:00,I634,Cultivating Cross-functional Team Collaboration (I634),Online - Self-paced,English/Anglais,0,Confirmed,Public Services and Procurement Canada,CR
 127795,regdw000000004686299,2,2020-09-22 0:00,I634,Cultivating Cross-functional Team Collaboration (I634),Online - Self-paced,English/Anglais,0,Confirmed,Employment and Social Development Canada,PM
 127795,regdw000000004690196,2,2020-09-23 0:00,I634,Cultivating Cross-functional Team Collaboration (I634),Online - Self-paced,English/Anglais,0,Confirmed,Global Affairs Canada,LEGS
-127796,regdw000000004651703,2,2020-09-04 0:00,I634,Cultivating Cross-functional Team Collaboration (I634),Online - Self-paced,French/Français,0,Confirmed,Department of Fisheries and Oceans,GS
-127796,regdw000000004666009,2,2020-09-14 0:00,I634,Cultivating Cross-functional Team Collaboration (I634),Online - Self-paced,French/Français,0,Confirmed,Employment and Social Development Canada,CR
-127796,regdw000000004670594,2,2020-09-15 0:00,I634,Cultivating Cross-functional Team Collaboration (I634),Online - Self-paced,French/Français,0,Confirmed,Department of National Defence (Civilian),IS
-127796,regdw000000004671151,2,2020-09-15 0:00,I634,Cultivating Cross-functional Team Collaboration (I634),Online - Self-paced,French/Français,0,Confirmed,Environment and Climate Change Canada,Unknown
-127796,regdw000000004682613,2,2020-09-21 0:00,I634,Cultivating Cross-functional Team Collaboration (I634),Online - Self-paced,French/Français,0,Confirmed,Department of Fisheries and Oceans,STDNT
+127796,regdw000000004651703,2,2020-09-04 0:00,I634,Cultivating Cross-functional Team Collaboration (I634),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Department of Fisheries and Oceans,GS
+127796,regdw000000004666009,2,2020-09-14 0:00,I634,Cultivating Cross-functional Team Collaboration (I634),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Employment and Social Development Canada,CR
+127796,regdw000000004670594,2,2020-09-15 0:00,I634,Cultivating Cross-functional Team Collaboration (I634),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Department of National Defence (Civilian),IS
+127796,regdw000000004671151,2,2020-09-15 0:00,I634,Cultivating Cross-functional Team Collaboration (I634),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Environment and Climate Change Canada,Unknown
+127796,regdw000000004682613,2,2020-09-21 0:00,I634,Cultivating Cross-functional Team Collaboration (I634),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Department of Fisheries and Oceans,STDNT
 127797,regdw000000004613914,2,2020-08-20 0:00,I635,Cultivating Enterprise Agile (I635),Online - Self-paced,English/Anglais,0,Confirmed,Statistics Canada,CR
 127797,regdw000000004614723,2,2020-08-20 0:00,I635,Cultivating Enterprise Agile (I635),Online - Self-paced,English/Anglais,0,Confirmed,Department of National Defence (Military),CFCaptain
 127797,regdw000000004658114,2,2020-09-09 0:00,I635,Cultivating Enterprise Agile (I635),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,AU
@@ -585,11 +585,11 @@ Offering ID,Registration Bus Id,DimScopeDwKey,Date,Course Code,Course Title (en)
 127797,regdw000000004670406,2,2020-09-15 0:00,I635,Cultivating Enterprise Agile (I635),Online - Self-paced,English/Anglais,0,Confirmed,Department of Justice,CR
 127797,regdw000000004676203,2,2020-09-17 0:00,I635,Cultivating Enterprise Agile (I635),Online - Self-paced,English/Anglais,0,Confirmed,Treasury Board of Canada Secretariat,EC
 127797,regdw000000004689628,2,2020-09-23 0:00,I635,Cultivating Enterprise Agile (I635),Online - Self-paced,English/Anglais,0,Confirmed,Public Health Agency of Canada,CS
-127798,regdw000000004667418,2,2020-09-14 0:00,I635,Cultivating Enterprise Agile (I635),Online - Self-paced,French/Français,0,Confirmed,Employment and Social Development Canada,AS
-127798,regdw000000004668616,2,2020-09-14 0:00,I635,Cultivating Enterprise Agile (I635),Online - Self-paced,French/Français,0,Confirmed,Department of Canadian Heritage,PE
-127798,regdw000000004671219,2,2020-09-15 0:00,I635,Cultivating Enterprise Agile (I635),Online - Self-paced,French/Français,0,Confirmed,Department of National Defence (Civilian),IS
-127798,regdw000000004672478,2,2020-09-16 0:00,I635,Cultivating Enterprise Agile (I635),Online - Self-paced,French/Français,0,Confirmed,Employment and Social Development Canada,CR
-127798,regdw000000004689564,2,2020-09-23 0:00,I635,Cultivating Enterprise Agile (I635),Online - Self-paced,French/Français,0,Confirmed,Treasury Board of Canada Secretariat,EC
+127798,regdw000000004667418,2,2020-09-14 0:00,I635,Cultivating Enterprise Agile (I635),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Employment and Social Development Canada,AS
+127798,regdw000000004668616,2,2020-09-14 0:00,I635,Cultivating Enterprise Agile (I635),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Department of Canadian Heritage,PE
+127798,regdw000000004671219,2,2020-09-15 0:00,I635,Cultivating Enterprise Agile (I635),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Department of National Defence (Civilian),IS
+127798,regdw000000004672478,2,2020-09-16 0:00,I635,Cultivating Enterprise Agile (I635),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Employment and Social Development Canada,CR
+127798,regdw000000004689564,2,2020-09-23 0:00,I635,Cultivating Enterprise Agile (I635),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Treasury Board of Canada Secretariat,EC
 127803,regdw000000004611243,2,2020-08-19 0:00,I557,Developing and Supporting an Agile Mind-set (I557),Online - Self-paced,English/Anglais,0,Confirmed,Veterans Affairs Canada,WP
 127803,regdw000000004612083,2,2020-08-19 0:00,I557,Developing and Supporting an Agile Mind-set (I557),Online - Self-paced,English/Anglais,0,Confirmed,Immigration and Refugee Board of Canada,PM
 127803,regdw000000004612966,2,2020-08-19 0:00,I557,Developing and Supporting an Agile Mind-set (I557),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,AU
@@ -610,10 +610,10 @@ Offering ID,Registration Bus Id,DimScopeDwKey,Date,Course Code,Course Title (en)
 127803,regdw000000004687139,2,2020-09-22 0:00,I557,Developing and Supporting an Agile Mind-set (I557),Online - Self-paced,English/Anglais,0,Confirmed,Employment and Social Development Canada,AS
 127803,regdw000000004689703,2,2020-09-23 0:00,I557,Developing and Supporting an Agile Mind-set (I557),Online - Self-paced,English/Anglais,0,Confirmed,Public Health Agency of Canada,CS
 127803,regdw000000004689820,2,2020-09-23 0:00,I557,Developing and Supporting an Agile Mind-set (I557),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,SP
-127804,regdw000000004653228,2,2020-09-08 0:00,I557,Developing and Supporting an Agile Mind-set (I557),Online - Self-paced,French/Français,0,Confirmed,Employment and Social Development Canada,CR
-127804,regdw000000004653733,2,2020-09-08 0:00,I557,Developing and Supporting an Agile Mind-set (I557),Online - Self-paced,French/Français,0,Confirmed,Veterans Affairs Canada,CR
-127804,regdw000000004689584,2,2020-09-23 0:00,I557,Developing and Supporting an Agile Mind-set (I557),Online - Self-paced,French/Français,0,Confirmed,Treasury Board of Canada Secretariat,EC
-127804,regdw000000004689873,2,2020-09-23 0:00,I557,Developing and Supporting an Agile Mind-set (I557),Online - Self-paced,French/Français,0,Confirmed,Department of National Defence (Civilian),IS
+127804,regdw000000004653228,2,2020-09-08 0:00,I557,Developing and Supporting an Agile Mind-set (I557),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Employment and Social Development Canada,CR
+127804,regdw000000004653733,2,2020-09-08 0:00,I557,Developing and Supporting an Agile Mind-set (I557),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Veterans Affairs Canada,CR
+127804,regdw000000004689584,2,2020-09-23 0:00,I557,Developing and Supporting an Agile Mind-set (I557),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Treasury Board of Canada Secretariat,EC
+127804,regdw000000004689873,2,2020-09-23 0:00,I557,Developing and Supporting an Agile Mind-set (I557),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Department of National Defence (Civilian),IS
 127861,regdw000000004660806,2,2020-09-10 0:00,I556,Embracing an Agile Culture for Business Growth (I556),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,AU
 127861,regdw000000004661793,2,2020-09-10 0:00,I556,Embracing an Agile Culture for Business Growth (I556),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,AS
 127861,regdw000000004665989,2,2020-09-14 0:00,I556,Embracing an Agile Culture for Business Growth (I556),Online - Self-paced,English/Anglais,0,Confirmed,Global Affairs Canada,Unknown
@@ -621,8 +621,8 @@ Offering ID,Registration Bus Id,DimScopeDwKey,Date,Course Code,Course Title (en)
 127861,regdw000000004674452,2,2020-09-16 0:00,I556,Embracing an Agile Culture for Business Growth (I556),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,AU
 127861,regdw000000004679251,2,2020-09-18 0:00,I556,Embracing an Agile Culture for Business Growth (I556),Online - Self-paced,English/Anglais,0,Confirmed,Department of Finance,AS
 127861,regdw000000004679437,2,2020-09-18 0:00,I556,Embracing an Agile Culture for Business Growth (I556),Online - Self-paced,English/Anglais,0,Confirmed,Natural Resources Canada,STDNT
-127862,regdw000000004665709,2,2020-09-14 0:00,I556,Embracing an Agile Culture for Business Growth (I556),Online - Self-paced,French/Français,0,Confirmed,Employment and Social Development Canada,CR
-127862,regdw000000004689596,2,2020-09-23 0:00,I556,Embracing an Agile Culture for Business Growth (I556),Online - Self-paced,French/Français,0,Confirmed,Treasury Board of Canada Secretariat,EC
+127862,regdw000000004665709,2,2020-09-14 0:00,I556,Embracing an Agile Culture for Business Growth (I556),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Employment and Social Development Canada,CR
+127862,regdw000000004689596,2,2020-09-23 0:00,I556,Embracing an Agile Culture for Business Growth (I556),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Treasury Board of Canada Secretariat,EC
 127863,regdw000000004632274,2,2020-08-31 0:00,I623,Embracing the Cloud for Business Efficiency (I623),Online - Self-paced,English/Anglais,0,Cancelled,Unknown,AS
 127863,regdw000000004632389,2,2020-08-31 0:00,I623,Embracing the Cloud for Business Efficiency (I623),Online - Self-paced,English/Anglais,0,Confirmed,Canada School of Public Service,EX
 127863,regdw000000004632547,2,2020-08-31 0:00,I623,Embracing the Cloud for Business Efficiency (I623),Online - Self-paced,English/Anglais,0,Confirmed,Unknown,GT
@@ -651,17 +651,17 @@ Offering ID,Registration Bus Id,DimScopeDwKey,Date,Course Code,Course Title (en)
 127863,regdw000000004684395,2,2020-09-21 0:00,I623,Embracing the Cloud for Business Efficiency (I623),Online - Self-paced,English/Anglais,0,Confirmed,Global Affairs Canada,AS
 127863,regdw000000004687768,2,2020-09-22 0:00,I623,Embracing the Cloud for Business Efficiency (I623),Online - Self-paced,English/Anglais,0,Confirmed,Shared Services Canada,CS
 127863,regdw000000004689655,2,2020-09-23 0:00,I623,Embracing the Cloud for Business Efficiency (I623),Online - Self-paced,English/Anglais,0,Confirmed,Shared Services Canada,CS
-127864,regdw000000004652062,2,2020-09-04 0:00,I623,Embracing the Cloud for Business Efficiency (I623),Online - Self-paced,French/Français,0,Confirmed,Canada School of Public Service,AS
-127864,regdw000000004654550,2,2020-09-08 0:00,I623,Embracing the Cloud for Business Efficiency (I623),Online - Self-paced,French/Français,0,Confirmed,Department of National Defence (Civilian),TI
-127864,regdw000000004656787,2,2020-09-09 0:00,I623,Embracing the Cloud for Business Efficiency (I623),Online - Self-paced,French/Français,0,Confirmed,Employment and Social Development Canada,AS
-127864,regdw000000004657840,2,2020-09-09 0:00,I623,Embracing the Cloud for Business Efficiency (I623),Online - Self-paced,French/Français,0,Confirmed,Translation Bureau,AS
-127864,regdw000000004660615,2,2020-09-10 0:00,I623,Embracing the Cloud for Business Efficiency (I623),Online - Self-paced,French/Français,0,Confirmed,Canadian Forces (military personnel),MAJOR
-127864,regdw000000004675483,2,2020-09-17 0:00,I623,Embracing the Cloud for Business Efficiency (I623),Online - Self-paced,French/Français,0,Confirmed,Correctional Service of Canada,CX
-127864,regdw000000004675709,2,2020-09-17 0:00,I623,Embracing the Cloud for Business Efficiency (I623),Online - Self-paced,French/Français,0,Confirmed,Shared Services Canada,AS
-127864,regdw000000004685177,2,2020-09-22 0:00,I623,Embracing the Cloud for Business Efficiency (I623),Online - Self-paced,French/Français,0,Cancelled,"Immigration, Refugees and Citizenship Canada",CR
-127864,regdw000000004685854,2,2020-09-22 0:00,I623,Embracing the Cloud for Business Efficiency (I623),Online - Self-paced,French/Français,0,Confirmed,Environment and Climate Change Canada,GT
-127864,regdw000000004685861,2,2020-09-22 0:00,I623,Embracing the Cloud for Business Efficiency (I623),Online - Self-paced,French/Français,0,Confirmed,Department of National Defence (Civilian),IS
-127864,regdw000000004687426,2,2020-09-22 0:00,I623,Embracing the Cloud for Business Efficiency (I623),Online - Self-paced,French/Français,0,Confirmed,Environment and Climate Change Canada,EG
+127864,regdw000000004652062,2,2020-09-04 0:00,I623,Embracing the Cloud for Business Efficiency (I623),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Canada School of Public Service,AS
+127864,regdw000000004654550,2,2020-09-08 0:00,I623,Embracing the Cloud for Business Efficiency (I623),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Department of National Defence (Civilian),TI
+127864,regdw000000004656787,2,2020-09-09 0:00,I623,Embracing the Cloud for Business Efficiency (I623),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Employment and Social Development Canada,AS
+127864,regdw000000004657840,2,2020-09-09 0:00,I623,Embracing the Cloud for Business Efficiency (I623),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Translation Bureau,AS
+127864,regdw000000004660615,2,2020-09-10 0:00,I623,Embracing the Cloud for Business Efficiency (I623),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Canadian Forces (military personnel),MAJOR
+127864,regdw000000004675483,2,2020-09-17 0:00,I623,Embracing the Cloud for Business Efficiency (I623),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Correctional Service of Canada,CX
+127864,regdw000000004675709,2,2020-09-17 0:00,I623,Embracing the Cloud for Business Efficiency (I623),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Shared Services Canada,AS
+127864,regdw000000004685177,2,2020-09-22 0:00,I623,Embracing the Cloud for Business Efficiency (I623),Online - Self-paced,French/FranÃ§ais,0,Cancelled,"Immigration, Refugees and Citizenship Canada",CR
+127864,regdw000000004685854,2,2020-09-22 0:00,I623,Embracing the Cloud for Business Efficiency (I623),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Environment and Climate Change Canada,GT
+127864,regdw000000004685861,2,2020-09-22 0:00,I623,Embracing the Cloud for Business Efficiency (I623),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Department of National Defence (Civilian),IS
+127864,regdw000000004687426,2,2020-09-22 0:00,I623,Embracing the Cloud for Business Efficiency (I623),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Environment and Climate Change Canada,EG
 127867,regdw000000004631253,2,2020-08-30 0:00,I636,Enabling Business-IT Collaboration and Strategic Alignment (I636),Online - Self-paced,English/Anglais,0,Confirmed,Public Safety Canada,EX
 127867,regdw000000004660695,2,2020-09-10 0:00,I636,Enabling Business-IT Collaboration and Strategic Alignment (I636),Online - Self-paced,English/Anglais,0,Confirmed,Shared Services Canada,CS
 127867,regdw000000004661137,2,2020-09-10 0:00,I636,Enabling Business-IT Collaboration and Strategic Alignment (I636),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,AU
@@ -669,9 +669,9 @@ Offering ID,Registration Bus Id,DimScopeDwKey,Date,Course Code,Course Title (en)
 127867,regdw000000004676179,2,2020-09-17 0:00,I636,Enabling Business-IT Collaboration and Strategic Alignment (I636),Online - Self-paced,English/Anglais,0,Confirmed,Treasury Board of Canada Secretariat,EC
 127867,regdw000000004677290,2,2020-09-17 0:00,I636,Enabling Business-IT Collaboration and Strategic Alignment (I636),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,AU
 127867,regdw000000004679786,2,2020-09-18 0:00,I636,Enabling Business-IT Collaboration and Strategic Alignment (I636),Online - Self-paced,English/Anglais,0,Confirmed,Department of Finance,AS
-127868,regdw000000004631255,2,2020-08-30 0:00,I636,Enabling Business-IT Collaboration and Strategic Alignment (I636),Online - Self-paced,French/Français,0,Confirmed,Public Safety Canada,EX
-127868,regdw000000004667852,2,2020-09-14 0:00,I636,Enabling Business-IT Collaboration and Strategic Alignment (I636),Online - Self-paced,French/Français,0,Confirmed,Employment and Social Development Canada,CR
-127868,regdw000000004690091,2,2020-09-23 0:00,I636,Enabling Business-IT Collaboration and Strategic Alignment (I636),Online - Self-paced,French/Français,0,Confirmed,Employment and Social Development Canada,PM
+127868,regdw000000004631255,2,2020-08-30 0:00,I636,Enabling Business-IT Collaboration and Strategic Alignment (I636),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Public Safety Canada,EX
+127868,regdw000000004667852,2,2020-09-14 0:00,I636,Enabling Business-IT Collaboration and Strategic Alignment (I636),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Employment and Social Development Canada,CR
+127868,regdw000000004690091,2,2020-09-23 0:00,I636,Enabling Business-IT Collaboration and Strategic Alignment (I636),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Employment and Social Development Canada,PM
 127869,regdw000000004651952,2,2020-09-04 0:00,I607,Exploring Customer Journey Mapping (I607),Online - Self-paced,English/Anglais,0,Confirmed,Canada School of Public Service,AS
 127869,regdw000000004656242,2,2020-09-09 0:00,I607,Exploring Customer Journey Mapping (I607),Online - Self-paced,English/Anglais,0,Confirmed,Statistics Canada,CR
 127869,regdw000000004656798,2,2020-09-09 0:00,I607,Exploring Customer Journey Mapping (I607),Online - Self-paced,English/Anglais,0,Cancelled,Unknown,AS
@@ -685,11 +685,11 @@ Offering ID,Registration Bus Id,DimScopeDwKey,Date,Course Code,Course Title (en)
 127869,regdw000000004679404,2,2020-09-18 0:00,I607,Exploring Customer Journey Mapping (I607),Online - Self-paced,English/Anglais,0,Cancelled,Public Service Commission,EDEDS
 127869,regdw000000004680465,2,2020-09-18 0:00,I607,Exploring Customer Journey Mapping (I607),Online - Self-paced,English/Anglais,0,Confirmed,Royal Canadian Mounted Police (PS employees),OM
 127869,regdw000000004687365,2,2020-09-22 0:00,I607,Exploring Customer Journey Mapping (I607),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,AU
-127870,regdw000000004651939,2,2020-09-04 0:00,I607,Exploring Customer Journey Mapping (I607),Online - Self-paced,French/Français,0,Confirmed,Canada School of Public Service,AS
-127870,regdw000000004654386,2,2020-09-08 0:00,I607,Exploring Customer Journey Mapping (I607),Online - Self-paced,French/Français,0,Confirmed,Unknown,Unknown
-127870,regdw000000004656809,2,2020-09-09 0:00,I607,Exploring Customer Journey Mapping (I607),Online - Self-paced,French/Français,0,Confirmed,Unknown,AS
-127870,regdw000000004658022,2,2020-09-09 0:00,I607,Exploring Customer Journey Mapping (I607),Online - Self-paced,French/Français,0,Confirmed,Translation Bureau,AS
-127870,regdw000000004659134,2,2020-09-10 0:00,I607,Exploring Customer Journey Mapping (I607),Online - Self-paced,French/Français,0,Confirmed,Veterans Affairs Canada,CR
+127870,regdw000000004651939,2,2020-09-04 0:00,I607,Exploring Customer Journey Mapping (I607),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Canada School of Public Service,AS
+127870,regdw000000004654386,2,2020-09-08 0:00,I607,Exploring Customer Journey Mapping (I607),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Unknown,Unknown
+127870,regdw000000004656809,2,2020-09-09 0:00,I607,Exploring Customer Journey Mapping (I607),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Unknown,AS
+127870,regdw000000004658022,2,2020-09-09 0:00,I607,Exploring Customer Journey Mapping (I607),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Translation Bureau,AS
+127870,regdw000000004659134,2,2020-09-10 0:00,I607,Exploring Customer Journey Mapping (I607),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Veterans Affairs Canada,CR
 127871,regdw000000004650985,2,2020-09-04 0:00,I519,Exploring Data Visualization (I519),Online - Self-paced,English/Anglais,0,Confirmed,Global Affairs Canada,CO
 127871,regdw000000004660447,2,2020-09-10 0:00,I519,Exploring Data Visualization (I519),Online - Self-paced,English/Anglais,0,Confirmed,Public Services and Procurement Canada,AS
 127871,regdw000000004660773,2,2020-09-10 0:00,I519,Exploring Data Visualization (I519),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,HR
@@ -714,14 +714,14 @@ Offering ID,Registration Bus Id,DimScopeDwKey,Date,Course Code,Course Title (en)
 127871,regdw000000004687982,2,2020-09-22 0:00,I519,Exploring Data Visualization (I519),Online - Self-paced,English/Anglais,0,Confirmed,Employment and Social Development Canada,EC
 127871,regdw000000004689948,2,2020-09-23 0:00,I519,Exploring Data Visualization (I519),Online - Self-paced,English/Anglais,0,Cancelled,Employment and Social Development Canada,EC
 127871,regdw000000004691497,2,2020-09-23 0:00,I519,Exploring Data Visualization (I519),Online - Self-paced,English/Anglais,0,Confirmed,Impact Assessment Agency of Canada,PC
-127872,regdw000000004657955,2,2020-09-09 0:00,I519,Exploring Data Visualization (I519),Online - Self-paced,French/Français,0,Confirmed,Translation Bureau,AS
-127872,regdw000000004674089,2,2020-09-16 0:00,I519,Exploring Data Visualization (I519),Online - Self-paced,French/Français,0,Confirmed,Employment and Social Development Canada,CR
+127872,regdw000000004657955,2,2020-09-09 0:00,I519,Exploring Data Visualization (I519),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Translation Bureau,AS
+127872,regdw000000004674089,2,2020-09-16 0:00,I519,Exploring Data Visualization (I519),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Employment and Social Development Canada,CR
 127873,regdw000000004661683,2,2020-09-10 0:00,I609,Exploring the Relationship between UI/UX Design (I609),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,AU
 127873,regdw000000004664693,2,2020-09-11 0:00,I609,Exploring the Relationship between UI/UX Design (I609),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,AS
 127873,regdw000000004676187,2,2020-09-17 0:00,I609,Exploring the Relationship between UI/UX Design (I609),Online - Self-paced,English/Anglais,0,Confirmed,Treasury Board of Canada Secretariat,EC
 127873,regdw000000004686707,2,2020-09-22 0:00,I609,Exploring the Relationship between UI/UX Design (I609),Online - Self-paced,English/Anglais,0,Confirmed,Transport Canada,AS
 127873,regdw000000004687381,2,2020-09-22 0:00,I609,Exploring the Relationship between UI/UX Design (I609),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,AU
-127874,regdw000000004673308,2,2020-09-16 0:00,I609,Exploring the Relationship between UI/UX Design (I609),Online - Self-paced,French/Français,0,Cancelled,Employment and Social Development Canada,PE
+127874,regdw000000004673308,2,2020-09-16 0:00,I609,Exploring the Relationship between UI/UX Design (I609),Online - Self-paced,French/FranÃ§ais,0,Cancelled,Employment and Social Development Canada,PE
 128010,regdw000000004663889,2,2020-09-11 0:00,I630,Getting Started with Machine Learning (I630),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,AU
 128010,regdw000000004664725,2,2020-09-11 0:00,I630,Getting Started with Machine Learning (I630),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,AS
 128010,regdw000000004670743,2,2020-09-15 0:00,I630,Getting Started with Machine Learning (I630),Online - Self-paced,English/Anglais,0,Confirmed,Natural Resources Canada,SERES
@@ -729,16 +729,16 @@ Offering ID,Registration Bus Id,DimScopeDwKey,Date,Course Code,Course Title (en)
 128010,regdw000000004673093,2,2020-09-16 0:00,I630,Getting Started with Machine Learning (I630),Online - Self-paced,English/Anglais,0,Confirmed,Public Services and Procurement Canada,DAPRO
 128010,regdw000000004676198,2,2020-09-17 0:00,I630,Getting Started with Machine Learning (I630),Online - Self-paced,English/Anglais,0,Confirmed,Treasury Board of Canada Secretariat,EC
 128010,regdw000000004677570,2,2020-09-17 0:00,I630,Getting Started with Machine Learning (I630),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,SP
-128023,regdw000000004657901,2,2020-09-09 0:00,I630,Getting Started with Machine Learning (I630),Online - Self-paced,French/Français,0,Confirmed,Translation Bureau,AS
-128023,regdw000000004658602,2,2020-09-09 0:00,I630,Getting Started with Machine Learning (I630),Online - Self-paced,French/Français,0,Confirmed,Employment and Social Development Canada,FI
-128023,regdw000000004666258,2,2020-09-14 0:00,I630,Getting Started with Machine Learning (I630),Online - Self-paced,French/Français,0,Confirmed,Employment and Social Development Canada,CR
-128023,regdw000000004689525,2,2020-09-23 0:00,I630,Getting Started with Machine Learning (I630),Online - Self-paced,French/Français,0,Confirmed,Department of National Defence (Civilian),IS
+128023,regdw000000004657901,2,2020-09-09 0:00,I630,Getting Started with Machine Learning (I630),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Translation Bureau,AS
+128023,regdw000000004658602,2,2020-09-09 0:00,I630,Getting Started with Machine Learning (I630),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Employment and Social Development Canada,FI
+128023,regdw000000004666258,2,2020-09-14 0:00,I630,Getting Started with Machine Learning (I630),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Employment and Social Development Canada,CR
+128023,regdw000000004689525,2,2020-09-23 0:00,I630,Getting Started with Machine Learning (I630),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Department of National Defence (Civilian),IS
 128027,regdw000000004662143,2,2020-09-11 0:00,I522,Harnessing the Power of Data Science for Business Growth (I522),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,SP
 128027,regdw000000004662417,2,2020-09-11 0:00,I522,Harnessing the Power of Data Science for Business Growth (I522),Online - Self-paced,English/Anglais,0,Confirmed,Canada School of Public Service,EC
 128027,regdw000000004665288,2,2020-09-13 0:00,I522,Harnessing the Power of Data Science for Business Growth (I522),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,AS
 128027,regdw000000004666370,2,2020-09-14 0:00,I522,Harnessing the Power of Data Science for Business Growth (I522),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,AU
 128027,regdw000000004670535,2,2020-09-15 0:00,I522,Harnessing the Power of Data Science for Business Growth (I522),Online - Self-paced,English/Anglais,0,Confirmed,Statistics Canada,CR
-128028,regdw000000004658170,2,2020-09-09 0:00,I522,Harnessing the Power of Data Science for Business Growth (I522),Online - Self-paced,French/Français,0,Confirmed,Translation Bureau,AS
+128028,regdw000000004658170,2,2020-09-09 0:00,I522,Harnessing the Power of Data Science for Business Growth (I522),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Translation Bureau,AS
 128029,regdw000000004651024,2,2020-09-04 0:00,I612,How Blockchain Technology is Transforming Businesses (I612),Online - Self-paced,English/Anglais,0,Confirmed,Global Affairs Canada,CO
 128029,regdw000000004658072,2,2020-09-09 0:00,I612,How Blockchain Technology is Transforming Businesses (I612),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,AU
 128029,regdw000000004658841,2,2020-09-09 0:00,I612,How Blockchain Technology is Transforming Businesses (I612),Online - Self-paced,English/Anglais,0,Confirmed,Veterans Affairs Canada,CR
@@ -748,7 +748,7 @@ Offering ID,Registration Bus Id,DimScopeDwKey,Date,Course Code,Course Title (en)
 128029,regdw000000004685613,2,2020-09-22 0:00,I612,How Blockchain Technology is Transforming Businesses (I612),Online - Self-paced,English/Anglais,0,Confirmed,Communications Security Establishment,UNI
 128029,regdw000000004687003,2,2020-09-22 0:00,I612,How Blockchain Technology is Transforming Businesses (I612),Online - Self-paced,English/Anglais,0,Confirmed,Canadian Forces (military personnel),Unknown
 128029,regdw000000004687608,2,2020-09-22 0:00,I612,How Blockchain Technology is Transforming Businesses (I612),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,SP
-128030,regdw000000004666644,2,2020-09-14 0:00,I612,How Blockchain Technology is Transforming Businesses (I612),Online - Self-paced,French/Français,0,Confirmed,Employment and Social Development Canada,CR
+128030,regdw000000004666644,2,2020-09-14 0:00,I612,How Blockchain Technology is Transforming Businesses (I612),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Employment and Social Development Canada,CR
 128063,regdw000000004651607,2,2020-09-04 0:00,I514,Making Data-driven Decisions (I514),Online - Self-paced,English/Anglais,0,Confirmed,Treasury Board of Canada Secretariat,PE
 128063,regdw000000004652145,2,2020-09-04 0:00,I514,Making Data-driven Decisions (I514),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,AS
 128063,regdw000000004652927,2,2020-09-07 0:00,I514,Making Data-driven Decisions (I514),Online - Self-paced,English/Anglais,0,Confirmed,Global Affairs Canada,Level
@@ -772,14 +772,14 @@ Offering ID,Registration Bus Id,DimScopeDwKey,Date,Course Code,Course Title (en)
 128063,regdw000000004689169,2,2020-09-23 0:00,I514,Making Data-driven Decisions (I514),Online - Self-paced,English/Anglais,0,Confirmed,Employment and Social Development Canada,EC
 128063,regdw000000004690747,2,2020-09-23 0:00,I514,Making Data-driven Decisions (I514),Online - Self-paced,English/Anglais,0,Confirmed,Public Services and Procurement Canada,FI
 128063,regdw000000004691572,2,2020-09-23 0:00,I514,Making Data-driven Decisions (I514),Online - Self-paced,English/Anglais,0,Confirmed,Impact Assessment Agency of Canada,PC
-128064,regdw000000004654064,2,2020-09-08 0:00,I514,Making Data-driven Decisions (I514),Online - Self-paced,French/Français,0,Confirmed,Employment and Social Development Canada,CR
-128064,regdw000000004656816,2,2020-09-09 0:00,I514,Making Data-driven Decisions (I514),Online - Self-paced,French/Français,0,Cancelled,Unknown,AS
-128064,regdw000000004658205,2,2020-09-09 0:00,I514,Making Data-driven Decisions (I514),Online - Self-paced,French/Français,0,Confirmed,Translation Bureau,AS
-128064,regdw000000004658744,2,2020-09-09 0:00,I514,Making Data-driven Decisions (I514),Online - Self-paced,French/Français,0,Confirmed,Employment and Social Development Canada,FI
-128064,regdw000000004681447,2,2020-09-19 0:00,I514,Making Data-driven Decisions (I514),Online - Self-paced,French/Français,0,Confirmed,Correctional Service of Canada,CX
-128065,regdw000000004659928,2,2020-09-10 0:00,I613,Creating Engagement with Virtual Reality (I613),Online - Self-paced,French/Français,0,Confirmed,Unknown,AS
-128065,regdw000000004668143,2,2020-09-14 0:00,I613,Creating Engagement with Virtual Reality (I613),Online - Self-paced,French/Français,0,Confirmed,Employment and Social Development Canada,PM
-128065,regdw000000004670088,2,2020-09-15 0:00,I613,Creating Engagement with Virtual Reality (I613),Online - Self-paced,French/Français,0,Confirmed,Employment and Social Development Canada,CR
+128064,regdw000000004654064,2,2020-09-08 0:00,I514,Making Data-driven Decisions (I514),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Employment and Social Development Canada,CR
+128064,regdw000000004656816,2,2020-09-09 0:00,I514,Making Data-driven Decisions (I514),Online - Self-paced,French/FranÃ§ais,0,Cancelled,Unknown,AS
+128064,regdw000000004658205,2,2020-09-09 0:00,I514,Making Data-driven Decisions (I514),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Translation Bureau,AS
+128064,regdw000000004658744,2,2020-09-09 0:00,I514,Making Data-driven Decisions (I514),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Employment and Social Development Canada,FI
+128064,regdw000000004681447,2,2020-09-19 0:00,I514,Making Data-driven Decisions (I514),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Correctional Service of Canada,CX
+128065,regdw000000004659928,2,2020-09-10 0:00,I613,Creating Engagement with Virtual Reality (I613),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Unknown,AS
+128065,regdw000000004668143,2,2020-09-14 0:00,I613,Creating Engagement with Virtual Reality (I613),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Employment and Social Development Canada,PM
+128065,regdw000000004670088,2,2020-09-15 0:00,I613,Creating Engagement with Virtual Reality (I613),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Employment and Social Development Canada,CR
 128098,regdw000000004669610,2,2020-09-15 0:00,I637,Reaching Efficient Solutions w Computational Thinking (I637),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,SU
 128098,regdw000000004670025,2,2020-09-15 0:00,I637,Reaching Efficient Solutions w Computational Thinking (I637),Online - Self-paced,English/Anglais,0,Confirmed,Canada School of Public Service,AS
 128098,regdw000000004670154,2,2020-09-15 0:00,I637,Reaching Efficient Solutions w Computational Thinking (I637),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,AU
@@ -795,8 +795,8 @@ Offering ID,Registration Bus Id,DimScopeDwKey,Date,Course Code,Course Title (en)
 128101,regdw000000004676136,2,2020-09-17 0:00,I638,The Essential Role of the Agile Product Owner (I638),Online - Self-paced,English/Anglais,0,Confirmed,Treasury Board of Canada Secretariat,EC
 128101,regdw000000004686362,2,2020-09-22 0:00,I638,The Essential Role of the Agile Product Owner (I638),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,SP
 128101,regdw000000004688031,2,2020-09-22 0:00,I638,The Essential Role of the Agile Product Owner (I638),Online - Self-paced,English/Anglais,0,Confirmed,Public Health Agency of Canada,CS
-128102,regdw000000004679445,2,2020-09-18 0:00,I638,The Essential Role of the Agile Product Owner (I638),Online - Self-paced,French/Français,0,Confirmed,Employment and Social Development Canada,CR
-128102,regdw000000004689600,2,2020-09-23 0:00,I638,The Essential Role of the Agile Product Owner (I638),Online - Self-paced,French/Français,0,Confirmed,Treasury Board of Canada Secretariat,EC
+128102,regdw000000004679445,2,2020-09-18 0:00,I638,The Essential Role of the Agile Product Owner (I638),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Employment and Social Development Canada,CR
+128102,regdw000000004689600,2,2020-09-23 0:00,I638,The Essential Role of the Agile Product Owner (I638),Online - Self-paced,French/FranÃ§ais,0,Confirmed,Treasury Board of Canada Secretariat,EC
 128105,regdw000000004660878,2,2020-09-10 0:00,I629,Transforming the Workplace Using Artificial Intelligence (I629),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,SU
 128105,regdw000000004664589,2,2020-09-11 0:00,I629,Transforming the Workplace Using Artificial Intelligence (I629),Online - Self-paced,English/Anglais,0,Confirmed,Canadian Food Inspection Agency,EG
 128105,regdw000000004667985,2,2020-09-14 0:00,I629,Transforming the Workplace Using Artificial Intelligence (I629),Online - Self-paced,English/Anglais,0,Confirmed,Canada Revenue Agency,AU
